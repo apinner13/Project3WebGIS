@@ -1,0 +1,1422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-04-22 | 9.00°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.9,24.175,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-03-28 | 9.00°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-110.625,23.625,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-04-14 | 9.00°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.625,23.825,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="10_05-88761_pointstyle">
+  <IconStyle>
+    <color>ffACAC20</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>10_05-88761 | 2010-06-15 | 9.00°</name>
+  <styleUrl>#10_05-88761_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.325,34.125,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-14 | 9.00°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.524,23.41,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-06-13 | 9.00°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-112.425,28.175,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-22 | 9.00°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-108.177,24.293,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-04-30 | 9.10°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-108.65,24.4,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-18 | 9.10°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.859,23.959,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-30 | 9.10°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-108.152,24.129,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-05-11 | 9.10°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-109.525,25.25,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-18 | 9.10°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.792,23.979,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-30 | 9.10°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-108.16,24.153,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-30 | 9.10°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-108.321,24.174,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-04-18 | 9.10°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.45,23.85,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-30 | 9.10°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-108.329,24.172,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-30 | 9.10°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-108.232,24.164,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_02-55716_pointstyle">
+  <IconStyle>
+    <color>ffBB344F</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_02-55716 | 2008-06-26 | 9.10°</name>
+  <styleUrl>#08_02-55716_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-118.875,33.85,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_02-55716_pointstyle">
+  <IconStyle>
+    <color>ffBB344F</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_02-55716 | 2008-06-26 | 9.10°</name>
+  <styleUrl>#08_02-55716_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.1,33.875,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-05-05 | 9.20°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-108.9,25.075,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-03-22 | 9.20°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-110.65,23.625,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-05-23 | 9.20°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-112.125,27.75,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-08 | 9.20°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.45,23.553,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-04-08 | 9.20°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.575,23.85,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-04-05 | 9.20°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.625,23.65,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-08 | 9.20°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.479,23.537,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_01-40561_pointstyle">
+  <IconStyle>
+    <color>ff017E75</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_01-40561 | 2008-06-20 | 9.20°</name>
+  <styleUrl>#08_01-40561_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-118.55,33.65,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_02-55716_pointstyle">
+  <IconStyle>
+    <color>ffBB344F</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_02-55716 | 2008-06-24 | 9.30°</name>
+  <styleUrl>#08_02-55716_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.25,33.875,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_02-55716_pointstyle">
+  <IconStyle>
+    <color>ffBB344F</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_02-55716 | 2008-06-24 | 9.30°</name>
+  <styleUrl>#08_02-55716_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.375,33.875,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-05-03 | 9.30°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-108.775,24.875,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_01-40561_pointstyle">
+  <IconStyle>
+    <color>ff017E75</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_01-40561 | 2008-06-24 | 9.30°</name>
+  <styleUrl>#08_01-40561_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-118.875,33.675,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="10_07-88772_pointstyle">
+  <IconStyle>
+    <color>ffEC6B70</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>10_07-88772 | 2010-07-04 | 9.30°</name>
+  <styleUrl>#10_07-88772_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.625,33.625,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_02-55716_pointstyle">
+  <IconStyle>
+    <color>ffBB344F</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_02-55716 | 2008-06-24 | 9.30°</name>
+  <styleUrl>#08_02-55716_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.35,33.875,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-03-18 | 9.40°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-110.625,23.625,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-06-01 | 9.40°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-112.8,28.7,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-04-24 | 9.40°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-108.125,24.375,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-04-10 | 9.40°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.4,23.8,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-03-26 | 9.40°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-110.625,23.625,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-04-01 | 9.40°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.875,23.65,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-24 | 9.40°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-108.278,24.475,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="10_05-88761_pointstyle">
+  <IconStyle>
+    <color>ffACAC20</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>10_05-88761 | 2010-06-25 | 9.40°</name>
+  <styleUrl>#10_05-88761_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.575,34.1,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-24 | 9.40°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-108.332,24.455,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-03-20 | 9.50°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-110.625,23.625,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-04-26 | 9.50°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-108.625,24.2,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-04-12 | 9.50°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.45,23.725,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-05-15 | 9.50°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-109.75,25.7,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-05-28 | 9.50°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-112.625,28.575,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-12 | 9.50°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.35,23.427,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-12 | 9.50°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.362,23.428,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-26 | 9.50°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.931,24.021,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-26 | 9.50°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.962,23.982,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-26 | 9.50°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.951,24.001,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-26 | 9.50°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-108.164,23.968,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_02-55716_pointstyle">
+  <IconStyle>
+    <color>ffBB344F</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_02-55716 | 2008-07-23 | 9.60°</name>
+  <styleUrl>#08_02-55716_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.625,34.125,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-03-16 | 9.60°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-110.625,23.625,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-05-21 | 9.60°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-111.775,27.275,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_07-49721_pointstyle">
+  <IconStyle>
+    <color>ff6C3B34</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_07-49721 | 2008-07-23 | 9.60°</name>
+  <styleUrl>#08_07-49721_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-121.6,34.975,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_01-40561_pointstyle">
+  <IconStyle>
+    <color>ff017E75</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_01-40561 | 2008-06-22 | 9.60°</name>
+  <styleUrl>#08_01-40561_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-118.825,33.65,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-04-03 | 9.60°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-107.65,23.65,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_02-55716_pointstyle">
+  <IconStyle>
+    <color>ffBB344F</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_02-55716 | 2008-06-22 | 9.60°</name>
+  <styleUrl>#08_02-55716_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.625,33.975,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_02-55716_pointstyle">
+  <IconStyle>
+    <color>ffBB344F</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_02-55716 | 2008-06-22 | 9.60°</name>
+  <styleUrl>#08_02-55716_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.6,33.975,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_07-49721_pointstyle">
+  <IconStyle>
+    <color>ff6C3B34</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_07-49721 | 2008-07-23 | 9.60°</name>
+  <styleUrl>#08_07-49721_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-121.575,35.025,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_02-77273_pointstyle">
+  <IconStyle>
+    <color>ffF7DB1F</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_02-77273 | 2008-07-23 | 9.60°</name>
+  <styleUrl>#08_02-77273_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.438,34.161,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_04-64252_pointstyle">
+  <IconStyle>
+    <color>ff8D8099</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_04-64252 | 2008-07-23 | 9.60°</name>
+  <styleUrl>#08_04-64252_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-118.95,33.775,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="10_07-88772_pointstyle">
+  <IconStyle>
+    <color>ffEC6B70</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>10_07-88772 | 2010-07-06 | 9.70°</name>
+  <styleUrl>#10_07-88772_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.425,33.425,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="10_07-88772_pointstyle">
+  <IconStyle>
+    <color>ffEC6B70</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>10_07-88772 | 2010-07-06 | 9.70°</name>
+  <styleUrl>#10_07-88772_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.375,33.625,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="10_10-88761_pointstyle">
+  <IconStyle>
+    <color>ffCA7D51</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>10_10-88761 | 2010-08-10 | 9.70°</name>
+  <styleUrl>#10_10-88761_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.675,34.1,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-05-30 | 9.70°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-112.7,28.6,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_04-64252_pointstyle">
+  <IconStyle>
+    <color>ff8D8099</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_04-64252 | 2008-10-12 | 9.80°</name>
+  <styleUrl>#08_04-64252_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.6,33.275,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_09-83066_pointstyle">
+  <IconStyle>
+    <color>ff179B26</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_09-83066 | 2008-10-12 | 9.80°</name>
+  <styleUrl>#08_09-83066_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.65,34.125,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-04-28 | 9.80°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-108.65,24.25,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_11-83060_pointstyle">
+  <IconStyle>
+    <color>ff8A33AB</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_11-83060 | 2008-10-12 | 9.80°</name>
+  <styleUrl>#08_11-83060_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-120.425,34.275,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_11-83060_pointstyle">
+  <IconStyle>
+    <color>ff8A33AB</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_11-83060 | 2008-10-12 | 9.80°</name>
+  <styleUrl>#08_11-83060_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-120.475,34.325,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-77272_pointstyle">
+  <IconStyle>
+    <color>ffF1E82A</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-77272 | 2008-04-28 | 9.80°</name>
+  <styleUrl>#07_05-77272_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-108.016,23.961,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_02-55716_pointstyle">
+  <IconStyle>
+    <color>ffBB344F</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_02-55716 | 2008-10-12 | 9.80°</name>
+  <styleUrl>#08_02-55716_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.875,34.1,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="10_05-88761_pointstyle">
+  <IconStyle>
+    <color>ffACAC20</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>10_05-88761 | 2010-06-27 | 9.80°</name>
+  <styleUrl>#10_05-88761_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.4,34.125,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_11-83060_pointstyle">
+  <IconStyle>
+    <color>ff8A33AB</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_11-83060 | 2008-10-12 | 9.80°</name>
+  <styleUrl>#08_11-83060_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-120.55,34.35,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_11-83060_pointstyle">
+  <IconStyle>
+    <color>ff8A33AB</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_11-83060 | 2008-10-12 | 9.80°</name>
+  <styleUrl>#08_11-83060_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-120.4,34.3,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_11-83060_pointstyle">
+  <IconStyle>
+    <color>ff8A33AB</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_11-83060 | 2008-10-12 | 9.80°</name>
+  <styleUrl>#08_11-83060_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-120.45,34.325,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_13-77375_pointstyle">
+  <IconStyle>
+    <color>ffD8FDAD</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_13-77375 | 2008-10-12 | 9.80°</name>
+  <styleUrl>#08_13-77375_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.966,33.901,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="10_05-88761_pointstyle">
+  <IconStyle>
+    <color>ffACAC20</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>10_05-88761 | 2010-06-27 | 9.80°</name>
+  <styleUrl>#10_05-88761_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.375,34.125,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="10_10-88761_pointstyle">
+  <IconStyle>
+    <color>ffCA7D51</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>10_10-88761 | 2010-08-08 | 9.80°</name>
+  <styleUrl>#10_10-88761_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.925,34.125,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_01-77274_pointstyle">
+  <IconStyle>
+    <color>ff619CF4</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_01-77274 | 2008-07-25 | 9.90°</name>
+  <styleUrl>#08_01-77274_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-117.75,33.467,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_02-55716_pointstyle">
+  <IconStyle>
+    <color>ffBB344F</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_02-55716 | 2008-07-25 | 9.90°</name>
+  <styleUrl>#08_02-55716_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.825,34.075,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-03-24 | 9.90°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-111.45,23.625,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-02-13 | 9.90°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-120.875,34.925,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_01-77274_pointstyle">
+  <IconStyle>
+    <color>ff619CF4</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_01-77274 | 2008-07-25 | 9.90°</name>
+  <styleUrl>#08_01-77274_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-117.651,33.407,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_04-64252_pointstyle">
+  <IconStyle>
+    <color>ff8D8099</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_04-64252 | 2008-07-25 | 9.90°</name>
+  <styleUrl>#08_04-64252_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-118.9,33.7,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_03-66879_pointstyle">
+  <IconStyle>
+    <color>ffF1601B</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_03-66879 | 2008-01-01 | 9.90°</name>
+  <styleUrl>#07_03-66879_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-114.65,28.85,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_01-77274_pointstyle">
+  <IconStyle>
+    <color>ff619CF4</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_01-77274 | 2008-07-25 | 9.90°</name>
+  <styleUrl>#08_01-77274_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-117.678,33.432,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_04-83075_pointstyle">
+  <IconStyle>
+    <color>ff987186</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_04-83075 | 2008-07-25 | 9.90°</name>
+  <styleUrl>#08_04-83075_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-118.439,33.814,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_07-49721_pointstyle">
+  <IconStyle>
+    <color>ff6C3B34</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_07-49721 | 2008-07-25 | 9.90°</name>
+  <styleUrl>#08_07-49721_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-121.625,35.15,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_02-77273_pointstyle">
+  <IconStyle>
+    <color>ffF7DB1F</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_02-77273 | 2008-07-25 | 9.90°</name>
+  <styleUrl>#08_02-77273_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.5,34.303,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_04-83075_pointstyle">
+  <IconStyle>
+    <color>ff987186</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_04-83075 | 2008-07-25 | 9.90°</name>
+  <styleUrl>#08_04-83075_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-118.501,33.813,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_04-83075_pointstyle">
+  <IconStyle>
+    <color>ff987186</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_04-83075 | 2008-07-25 | 9.90°</name>
+  <styleUrl>#08_04-83075_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-118.486,33.827,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_04-83075_pointstyle">
+  <IconStyle>
+    <color>ff987186</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_04-83075 | 2008-07-25 | 9.90°</name>
+  <styleUrl>#08_04-83075_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-118.51,33.814,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-02-13 | 9.90°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-120.475,34.35,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_04-83075_pointstyle">
+  <IconStyle>
+    <color>ff987186</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_04-83075 | 2008-07-25 | 9.90°</name>
+  <styleUrl>#08_04-83075_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-118.495,33.819,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-02-13 | 9.90°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-120.5,34.35,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_04-83075_pointstyle">
+  <IconStyle>
+    <color>ff987186</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_04-83075 | 2008-07-25 | 9.90°</name>
+  <styleUrl>#08_04-83075_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-118.509,33.831,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_02-55716_pointstyle">
+  <IconStyle>
+    <color>ffBB344F</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_02-55716 | 2008-07-25 | 9.90°</name>
+  <styleUrl>#08_02-55716_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.625,33.65,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_07-49721_pointstyle">
+  <IconStyle>
+    <color>ff6C3B34</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_07-49721 | 2008-07-25 | 9.90°</name>
+  <styleUrl>#08_07-49721_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-121.675,35.125,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="08_02-55716_pointstyle">
+  <IconStyle>
+    <color>ffBB344F</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>08_02-55716 | 2008-07-25 | 9.90°</name>
+  <styleUrl>#08_02-55716_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.775,34.1,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="10_16-83054_pointstyle">
+  <IconStyle>
+    <color>ff971C95</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>10_16-83054 | 2010-10-05 | 10.00°</name>
+  <styleUrl>#10_16-83054_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.1,33.675,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-02-11 | 10.00°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-120.975,35.325,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_05-66885_pointstyle">
+  <IconStyle>
+    <color>ffADFE6D</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_05-66885 | 2008-02-11 | 10.00°</name>
+  <styleUrl>#07_05-66885_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-121.075,35.375,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="07_03-66879_pointstyle">
+  <IconStyle>
+    <color>ffF1601B</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>07_03-66879 | 2008-01-09 | 10.00°</name>
+  <styleUrl>#07_03-66879_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-115.125,28.35,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="10_17-83056_pointstyle">
+  <IconStyle>
+    <color>ffD43AFB</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>10_17-83056 | 2010-10-05 | 10.00°</name>
+  <styleUrl>#10_17-83056_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.35,32.55,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="09_09B-88765_pointstyle">
+  <IconStyle>
+    <color>ff2D0DC6</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>09_09B-88765 | 2010-10-05 | 10.00°</name>
+  <styleUrl>#09_09B-88765_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.175,32.425,0</coordinates>
+  </Point>
+</Placemark>
+</Document>
+</kml>

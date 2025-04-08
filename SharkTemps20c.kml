@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="04_01-52914_pointstyle">
+  <IconStyle>
+    <color>ff92E9C7</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>04_01-52914 | 2004-09-13 | 20.00°</name>
+  <styleUrl>#04_01-52914_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.55,33,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="04_01-52914_pointstyle">
+  <IconStyle>
+    <color>ff92E9C7</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>04_01-52914 | 2004-09-13 | 20.00°</name>
+  <styleUrl>#04_01-52914_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.575,33,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="15_2MX-62131_pointstyle">
+  <IconStyle>
+    <color>ff8EABFF</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>15_2MX-62131 | 2015-07-27 | 20.10°</name>
+  <styleUrl>#15_2MX-62131_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-114.525,28.325,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="04_01-52914_pointstyle">
+  <IconStyle>
+    <color>ff92E9C7</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>04_01-52914 | 2004-09-18 | 20.10°</name>
+  <styleUrl>#04_01-52914_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.6,32.95,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="15_2MX-62131_pointstyle">
+  <IconStyle>
+    <color>ff8EABFF</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>15_2MX-62131 | 2015-08-05 | 20.10°</name>
+  <styleUrl>#15_2MX-62131_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-114.125,28.375,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="15_1MX-62130_pointstyle">
+  <IconStyle>
+    <color>ff4609BE</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>15_1MX-62130 | 2015-07-23 | 20.30°</name>
+  <styleUrl>#15_1MX-62130_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-116.025,29.675,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="04_01-52914_pointstyle">
+  <IconStyle>
+    <color>ff92E9C7</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>04_01-52914 | 2004-09-09 | 20.30°</name>
+  <styleUrl>#04_01-52914_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.525,33.05,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="15_2MX-62131_pointstyle">
+  <IconStyle>
+    <color>ff8EABFF</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>15_2MX-62131 | 2015-07-23 | 20.30°</name>
+  <styleUrl>#15_2MX-62131_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-114.575,28.325,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="14_07-132980_pointstyle">
+  <IconStyle>
+    <color>ffA1C726</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>14_07-132980 | 2015-07-25 | 20.30°</name>
+  <styleUrl>#14_07-132980_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-120.9,34.425,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="15_1MX-62130_pointstyle">
+  <IconStyle>
+    <color>ff4609BE</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>15_1MX-62130 | 2015-07-25 | 20.30°</name>
+  <styleUrl>#15_1MX-62130_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-116.175,30.3,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="04_01-52914_pointstyle">
+  <IconStyle>
+    <color>ff92E9C7</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>04_01-52914 | 2004-09-11 | 20.30°</name>
+  <styleUrl>#04_01-52914_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-119.55,33.025,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="15_2MX-62131_pointstyle">
+  <IconStyle>
+    <color>ff8EABFF</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>15_2MX-62131 | 2015-07-25 | 20.30°</name>
+  <styleUrl>#15_2MX-62131_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-114.55,28.325,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="14_07-132980_pointstyle">
+  <IconStyle>
+    <color>ffA1C726</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>14_07-132980 | 2015-07-23 | 20.30°</name>
+  <styleUrl>#14_07-132980_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-120.55,33.875,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="15_2MX-62131_pointstyle">
+  <IconStyle>
+    <color>ff8EABFF</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>15_2MX-62131 | 2015-07-31 | 20.50°</name>
+  <styleUrl>#15_2MX-62131_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-114.425,28.35,0</coordinates>
+  </Point>
+</Placemark>
+<Style id="15_2MX-62131_pointstyle">
+  <IconStyle>
+    <color>ff8EABFF</color>
+    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon>
+  </IconStyle>
+</Style>
+<Placemark>
+  <name>15_2MX-62131 | 2015-07-29 | 20.50°</name>
+  <styleUrl>#15_2MX-62131_pointstyle</styleUrl>
+  <Point>
+    <coordinates>-114.475,28.35,0</coordinates>
+  </Point>
+</Placemark>
+</Document>
+</kml>
